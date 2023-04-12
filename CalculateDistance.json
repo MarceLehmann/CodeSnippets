@@ -1,13 +1,23 @@
 With(
+
 {
+
 r: 6371,
+
 p: (Pi() / 180),
-latA: 51.509865,
-lonA: -0.118092,
-latB: 53.483959,
-lonB: -2.244644
-},
+
+latA: 57.43643763,
+
+lonA: -0.13465,
+
+latB: 53.67764,
+
+lonB: -4.645646},
+
 (2 * r) * 
+
 Asin(Sqrt(0.5 - Cos((latA - latB) * p)/2 + Cos(latB * p) * Cos(latA * p) * 
+
 (1 - Cos((lonA - lonB) * p)) / 2))
+
 )
