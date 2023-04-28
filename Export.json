@@ -1,1 +1,290 @@
-﻿[{"Name":"PowerPlatformTip 16 – ‘PowerApps – Collections Cookbook’","Description":null,"Link":"https://lehmann.ws/2023/01/03/powerplatformtip-16-powerapps-collections-cookbook/","Author":"Marcel Lehmann","Date":"2023-01-23T00:29:00Z","Typ":864220000,"Code":null},{"Name":"PowerPlatformTip 17 – ‘Format data by example’","Description":null,"Link":"https://lehmann.ws/2023/01/05/powerplatformtip-17-format-data-by-example/","Author":"Marcel Lehmann","Date":"2023-01-23T00:29:00Z","Typ":864220000,"Code":null},{"Name":"PowerPlatformTip 18 – ‘Download & Save Files’","Description":null,"Link":"https://lehmann.ws/2023/01/10/powerplatformtip-18-download-save-files/","Author":"Marcel Lehmann","Date":"2023-01-23T00:29:00Z","Typ":864220000,"Code":null},{"Name":"PowerPlatformTip 19 – ‘Resize files’","Description":null,"Link":"https://lehmann.ws/2023/01/12/powerplatformtip-19-resize-files/","Author":"Marcel Lehmann","Date":"2023-01-23T00:29:00Z","Typ":864220000,"Code":null},{"Name":"PowerPlatformTip 20 – ‘Change Flow-Owner’","Description":null,"Link":"https://lehmann.ws/2023/01/17/powerplatformtip-20-change-flow-owner/","Author":"Marcel Lehmann","Date":"2023-01-23T00:29:00Z","Typ":864220000,"Code":null},{"Name":"PowerPlatformTip 21 – ‘Use Triggeroutput’","Description":null,"Link":"https://lehmann.ws/2023/01/19/powerplatformtip-21-use-triggeroutput/","Author":"Marcel Lehmann","Date":"2023-01-23T00:29:00Z","Typ":864220000,"Code":null},{"Name":"PowerPlatformTip 22 – ‘Change Fill & Color’","Description":null,"Link":"https://lehmann.ws/2023/01/24/powerplatformtip-change-fill-color/","Author":"Marcel Lehmann","Date":"2023-01-24T07:19:00Z","Typ":864220000,"Code":null},{"Name":"PowerPlatformTip 23 – ‘Filter Blank’","Description":null,"Link":"https://lehmann.ws/2023/01/26/powerplatformtip-23-filter-blank/","Author":"Marcel Lehmann","Date":"2023-01-26T07:09:00Z","Typ":864220000,"Code":null},{"Name":"PowerPlatformTip 24 – ‘Merge arrays or tables’","Description":null,"Link":"https://lehmann.ws/2023/01/31/powerplatformtip-24-merge-arrays-or-tables/","Author":"Marcel Lehmann","Date":"2023-01-31T07:00:00Z","Typ":864220000,"Code":null},{"Name":"PowerPlatformTip 25 – ‘Weekly tips, insights and updates’","Description":null,"Link":"https://lehmann.ws/2023/02/02/powerplatformtip-25-weekly-tips-insights-and-updates/","Author":"Marcel Lehmann","Date":"2023-02-02T07:08:00Z","Typ":864220000,"Code":null},{"Name":"PowerPlatformTip 26 – ‘Microsoft Cloud Skills Challenge’","Description":null,"Link":"https://lehmann.ws/2023/02/07/powerplatformtip-26-microsoft-cloud-skills-challenge/","Author":"Marcel Lehmann","Date":"2023-02-07T07:37:00Z","Typ":864220000,"Code":null},{"Name":"PowerPlatformTip 27 – ‘Overwrite existing files ‘","Description":null,"Link":"https://lehmann.ws/2023/02/09/powerplatformtip-overwrite-existing-files/","Author":"Marcel Lehmann","Date":"2023-02-09T07:18:00Z","Typ":864220000,"Code":null},{"Name":"PowerPlatformTip 28 – ‘ParseJSON Description’","Description":null,"Link":"https://lehmann.ws/2023/02/14/powerplatformtip-28-fast-tips/","Author":"Marcel Lehmann","Date":"2023-02-14T07:05:00Z","Typ":864220000,"Code":null},{"Name":"PowerPlatformTip 29 – ‘Fast tips’","Description":null,"Link":"https://lehmann.ws/2023/02/15/powerplatformtip-29-fast-tips/","Author":"Marcel Lehmann","Date":"2023-02-15T22:07:00Z","Typ":864220000,"Code":null},{"Name":"PowerPlatformTip 30 – ‘PowerApps – Code Review’","Description":null,"Link":"https://lehmann.ws/2023/02/21/powerplatformtip-30-powerapps-code-review/","Author":"Marcel Lehmann","Date":"2023-02-21T06:55:00Z","Typ":864220000,"Code":null},{"Name":"PowerPlatformTip 32 – ‘Use GroupBy’","Description":null,"Link":"https://lehmann.ws/2023/03/02/powerplatformtip-32-groupby/","Author":"Marcel Lehmann","Date":"2023-03-02T07:22:00Z","Typ":864220000,"Code":null},{"Name":"PowerPlatformTip 35 – ‘Concurrent Control’","Description":null,"Link":"https://lehmann.ws/2023/03/14/powerplatformtip-concurrent-control/","Author":"Marcel Lehmann","Date":"2023-03-14T07:17:00Z","Typ":864220000,"Code":null},{"Name":"PowerPlatformTip 37 – ‘Table to JSON’","Description":null,"Link":"https://lehmann.ws/2023/03/21/powerplatformtip-37-table-to-json/","Author":"Marcel Lehmann","Date":"2023-03-21T08:07:00Z","Typ":864220000,"Code":null},{"Name":"PowerPlatformTip 38 – ‘Data Refresh’","Description":null,"Link":"https://lehmann.ws/2023/03/23/powerplatformtip-38-data-refresh/","Author":"Marcel Lehmann","Date":"2023-03-23T07:11:00Z","Typ":864220000,"Code":null},{"Name":"PowerPlatformTip 39 – ‘FetchXML’","Description":null,"Link":"https://lehmann.ws/2023/03/23/powerplatformtip-39-fetchxml/","Author":"Marcel Lehmann","Date":"2023-03-23T08:11:00Z","Typ":864220000,"Code":null},{"Name":"PowerPlatformTip 39 – ‘FetchXML’","Description":null,"Link":"https://lehmann.ws/2023/03/28/powerplatformtip-39-fetchxml/","Author":"Marcel Lehmann","Date":"2023-03-28T06:33:00Z","Typ":864220000,"Code":null},{"Name":"PowerPlatformTip 40 – ‘Delete Apps / Flows’","Description":null,"Link":"https://lehmann.ws/2023/03/30/powerplatformtip-40-delete-apps-flows/","Author":"Marcel Lehmann","Date":"2023-03-30T06:10:00Z","Typ":864220000,"Code":null},{"Name":"PowerPlatformTip 41 – ‘Standard tables in DataVerse’","Description":null,"Link":"https://lehmann.ws/2023/04/04/powerplatformtip-41-standard-tables-in-dataverse/","Author":"Marcel Lehmann","Date":"2023-04-04T06:25:00Z","Typ":864220000,"Code":null},{"Name":"PowerPlatformTip 42 – ‘Dataverse Views’","Description":null,"Link":"https://lehmann.ws/2023/04/06/powerplatformtip-42-dataverse-views/","Author":"Marcel Lehmann","Date":"2023-04-06T06:33:00Z","Typ":864220000,"Code":null},{"Name":"PowerPlatformTip 43 – ‘With function’","Description":null,"Link":"https://lehmann.ws/2023/04/11/powerplatformtip-43-with-function/","Author":"Marcel Lehmann","Date":"2023-04-11T06:24:00Z","Typ":864220000,"Code":null},{"Name":"PowerPlatformTip 44 – ‘With function’","Description":null,"Link":"https://lehmann.ws/2023/04/13/powerplatformtip-44-with-function/","Author":"Marcel Lehmann","Date":"2023-04-13T06:01:00Z","Typ":864220000,"Code":null},{"Name":"PowerPlatformTip 45 – ‘Use Scopes’","Description":null,"Link":"https://lehmann.ws/2023/04/18/powerplatformtip-use-scopes/","Author":"Marcel Lehmann","Date":"2023-04-18T06:16:00Z","Typ":864220000,"Code":null},{"Name":"PowerPlatformTip 46 – ‘PowerToys’","Description":null,"Link":"https://lehmann.ws/2023/04/20/powerplatformtip-46-powertoys/","Author":"Marcel Lehmann","Date":"2023-04-20T06:19:00Z","Typ":864220000,"Code":null},{"Name":"PowerPlatformTip 47 – ‘Batch-Method within SharePoint’","Description":null,"Link":"https://lehmann.ws/2023/04/25/powerplatformtip-47-batch-method-within-sharepoint/","Author":"Marcel Lehmann","Date":"2023-04-25T06:31:00Z","Typ":864220000,"Code":null},{"Name":"PowerPlatformTip 48 – ‘Sharing of Flows & Power Apps’","Description":null,"Link":"https://lehmann.ws/2023/04/27/powerplatformtip-48-sharing-of-flows-power-apps/","Author":"Marcel Lehmann","Date":"2023-04-27T06:10:00Z","Typ":864220000,"Code":null},{"Name":"PowerPlatformTip 33 – ‘Coalesce’","Description":null,"Link":"https://lehmann.ws/2023/03/07/powerplatformtip-33-coalesce/","Author":"Marcel Lehmann","Date":"2023-03-07T09:44:00Z","Typ":864220000,"Code":null},{"Name":"PowerPlatformTip 34 – ‘PowerApps V2’","Description":null,"Link":"https://lehmann.ws/2023/03/09/powerplatformtip-34-powerapps-v2/","Author":"Marcel Lehmann","Date":"2023-03-09T07:16:00Z","Typ":864220000,"Code":null},{"Name":"23 Power Apps Filter Function Examples For SharePoint","Description":"The Power Apps Filter function checks a table for any records matching a set of logical criteria. Then it extracts the results into a new table. Use these examples to help you filter a SharePoint list. All of the filter functions on this page support delegation so the full results set will be returned.","Link":"https://www.matthewdevaney.com/power-apps-filter-functions-examples/","Author":"Matthew Devaney","Date":"2023-03-25T23:00:00Z","Typ":864220001,"Code":null},{"Name":"8 Power Platform DLP Policy Best Practices","Description":"Power Platform DLP Policies determine which data connectors can be used by apps & flows in an environment and which connectors are blocked. They are essential to put in place for every environment. DLP Policies prevent makers from accidentally exposing data to 3rd party services that should not have it. In this article I will share 8 Power Platform DLP Policy best practices and help you build a strategy to prevent data-leakage.","Link":"https://www.matthewdevaney.com/8-power-platform-dlp-policy-best-practices/","Author":"Matthew Devaney","Date":"2023-03-04T23:00:00Z","Typ":864220001,"Code":null},{"Name":"Add Attendee to Event via Flow","Description":null,"Link":null,"Author":"Marcel Lehmann","Date":null,"Typ":864220003,"Code":"{\"id\":\"6f343823-9c0e-4196-856e-1a6023f9525e\",\"brandColor\":\"#8C3900\",\"connectionReferences\":{\"shared_office365groups\":{\"connection\":{\"id\":\"/new_sharedoffice365groups_8502d\"}}},\"connectorDisplayName\":\"Control\",\"icon\":\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZlcnNpb249IjEuMSIgdmlld0JveD0iMCAwIDMyIDMyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPg0KIDxwYXRoIGQ9Im0wIDBoMzJ2MzJoLTMyeiIgZmlsbD0iIzhDMzkwMCIvPg0KIDxwYXRoIGQ9Im04IDEwaDE2djEyaC0xNnptMTUgMTF2LTEwaC0xNHYxMHptLTItOHY2aC0xMHYtNnptLTEgNXYtNGgtOHY0eiIgZmlsbD0iI2ZmZiIvPg0KPC9zdmc+DQo=\",\"isTrigger\":false,\"operationName\":\"Attendee_to_Event\",\"operationDefinition\":{\"type\":\"Scope\",\"actions\":{\"Parse_JSON\":{\"type\":\"ParseJson\",\"inputs\":{\"content\":{\"EventID\":\"AAMkADljMDU2ZWIxLTQ3NDctNDRjMS05OWE3LTAyOTllNTcyMzE4MgBGAAAAAAD-fRqOyEgwTp7S0wDoRdl4BwDSFUs-dzXJRKukoPwfbnxeAAAAAAENAADSFUs-dzXJRKukoPwfbnxeAAB1D8lIAAA=\",\"NewAttendee\":\"@{triggerBody()['text']}\"},\"schema\":{\"type\":\"object\",\"properties\":{\"EventID\":{\"type\":\"string\"},\"NewAttendee\":{\"type\":\"string\"}}}},\"runAfter\":{},\"metadata\":{\"operationMetadataId\":\"33162e88-6b9c-4f30-91fe-88c6caf68ffb\"}},\"Send_an_HTTP_request_-_Attendees\":{\"type\":\"OpenApiConnection\",\"inputs\":{\"host\":{\"connectionName\":\"shared_office365groups\",\"operationId\":\"HttpRequest\",\"apiId\":\"/providers/Microsoft.PowerApps/apis/shared_office365groups\"},\"parameters\":{\"Uri\":\"https://graph.microsoft.com/v1.0/me/events/@{body('Parse_JSON')?['EventID']}\",\"Method\":\"PATCH\",\"Body\":\"{ \\\"hideAttendees\\\": true}\",\"ContentType\":\"application/json\"},\"authentication\":{\"type\":\"Raw\",\"value\":\"@json(decodeBase64(triggerOutputs().headers['X-MS-APIM-Tokens']))['$ConnectionKey']\"}},\"runAfter\":{\"Parse_JSON\":[\"Succeeded\"]},\"metadata\":{\"operationMetadataId\":\"ac8f4181-2fc0-459b-9199-815570d60463\"}},\"Send_an_HTTP_request_-_Event\":{\"type\":\"OpenApiConnection\",\"inputs\":{\"host\":{\"connectionName\":\"shared_office365groups\",\"operationId\":\"HttpRequest\",\"apiId\":\"/providers/Microsoft.PowerApps/apis/shared_office365groups\"},\"parameters\":{\"Uri\":\"https://graph.microsoft.com/v1.0/me/events/@{body('Parse_JSON')?['EventID']}\",\"Method\":\"GET\",\"ContentType\":\"application/json\"},\"authentication\":{\"type\":\"Raw\",\"value\":\"@json(decodeBase64(triggerOutputs().headers['X-MS-APIM-Tokens']))['$ConnectionKey']\"}},\"runAfter\":{\"Send_an_HTTP_request_-_Attendees\":[\"Succeeded\"]},\"metadata\":{\"operationMetadataId\":\"8dc84c1f-d36c-457b-9ced-ae527ae2dbab\"}},\"New_Attende\":{\"type\":\"Compose\",\"inputs\":[{\"type\":\"required\",\"emailAddress\":{\"address\":\"@{body('Parse_JSON')?['NewAttendee']}\"}}],\"runAfter\":{\"Send_an_HTTP_request_-_Event\":[\"Succeeded\"]},\"metadata\":{\"operationMetadataId\":\"94a62e33-31dc-464f-a7bd-0b6f9a82e21f\"}},\"Send_an_HTTP_request_-_Event_2\":{\"type\":\"OpenApiConnection\",\"inputs\":{\"host\":{\"connectionName\":\"shared_office365groups\",\"operationId\":\"HttpRequest\",\"apiId\":\"/providers/Microsoft.PowerApps/apis/shared_office365groups\"},\"parameters\":{\"Uri\":\"https://graph.microsoft.com/v1.0/me/events/@{body('Parse_JSON')?['EventID']}\",\"Method\":\"PATCH\",\"Body\":\"{\\n\\\"Attendees\\\": @{union(outputs('Send_an_HTTP_request_-_Event')?['body']?['attendees'],outputs('New_Attende'))}\\n}\",\"ContentType\":\"application/json\"},\"authentication\":{\"type\":\"Raw\",\"value\":\"@json(decodeBase64(triggerOutputs().headers['X-MS-APIM-Tokens']))['$ConnectionKey']\"}},\"runAfter\":{\"New_Attende\":[\"Succeeded\"]},\"metadata\":{\"operationMetadataId\":\"e61f4025-9e9b-47b7-8087-1a5332061410\"}}},\"runAfter\":{}}}"},{"Name":"New PowerApp Owner via PowerAutomate","Description":null,"Link":null,"Author":"Marcel Lehmann","Date":null,"Typ":864220003,"Code":"{\"id\":\"6f38ce97-f568-4aec-ac7e-ac0d-a73613b2\",\"brandColor\":\"#8C3900\",\"connectionReferences\":{\"shared_office365users\":{\"connection\":{\"id\":\"/providers/Microsoft.PowerApps/apis/shared_office365users/connections/shared-office365user-11cf927a-e9db-4477-9e8d-5882-439e12d7\"}},\"shared_powerappsforadmins\":{\"connection\":{\"id\":\"/providers/Microsoft.PowerApps/apis/shared_powerappsforadmins/connections/shared-powerappsfora-ccaf1da3-9ba4-4f35-b986-40cb-bd8c01a1\"}}},\"connectorDisplayName\":\"Control\",\"icon\":\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZlcnNpb249IjEuMSIgdmlld0JveD0iMCAwIDMyIDMyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPg0KIDxwYXRoIGQ9Im0wIDBoMzJ2MzJoLTMyeiIgZmlsbD0iIzhDMzkwMCIvPg0KIDxwYXRoIGQ9Im04IDEwaDE2djEyaC0xNnptMTUgMTF2LTEwaC0xNHYxMHptLTItOHY2aC0xMHYtNnptLTEgNXYtNGgtOHY0eiIgZmlsbD0iI2ZmZiIvPg0KPC9zdmc+DQo=\",\"isTrigger\":false,\"operationName\":\"Set_new_PowerApp_Owner\",\"operationDefinition\":{\"type\":\"Scope\",\"actions\":{\"Search_for_users_-_new_App_Owner\":{\"type\":\"OpenApiConnection\",\"inputs\":{\"host\":{\"connectionName\":\"shared_office365users\",\"operationId\":\"SearchUserV2\",\"apiId\":\"/providers/Microsoft.PowerApps/apis/shared_office365users\"},\"parameters\":{\"searchTerm\":\"m.lehmann@novacapta.com\"},\"authentication\":{\"type\":\"Raw\",\"value\":\"@json(decodeBase64(triggerOutputs().headers['X-MS-APIM-Tokens']))['$ConnectionKey']\"}},\"runAfter\":{}},\"Apply_to_each\":{\"type\":\"Foreach\",\"foreach\":\"@outputs('Search_for_users_-_new_App_Owner')?['body/value']\",\"actions\":{\"Set_App_Owner\":{\"type\":\"OpenApiConnection\",\"inputs\":{\"host\":{\"connectionName\":\"shared_powerappsforadmins\",\"operationId\":\"Set-AdminAppOwner\",\"apiId\":\"/providers/Microsoft.PowerApps/apis/shared_powerappsforadmins\"},\"parameters\":{\"environment\":\"@outputs('Environment_Name')\",\"app\":\"@outputs('PowerApp_Name')\",\"api-version\":\"2016-11-01\",\"Content-Type\":\" application/json\",\"body/roleForOldAppOwner\":\"CanView\",\"body/newAppOwner\":\"@items('Apply_to_each')?['Id']\"},\"authentication\":{\"type\":\"Raw\",\"value\":\"@json(decodeBase64(triggerOutputs().headers['X-MS-APIM-Tokens']))['$ConnectionKey']\"}},\"runAfter\":{}}},\"runAfter\":{\"PowerApp_Name\":[\"Succeeded\"]}},\"Environment_Name\":{\"type\":\"Compose\",\"inputs\":\"Default-252355fb-ab4a-47a1-91a1-5b0f8b4acd1c\",\"runAfter\":{\"Search_for_users_-_new_App_Owner\":[\"Succeeded\"]}},\"PowerApp_Name\":{\"type\":\"Compose\",\"inputs\":\"8a42c6f2-bffb-48db-a826-0d9d1d0dd958\",\"runAfter\":{\"Environment_Name\":[\"Succeeded\"]}}},\"runAfter\":{}}}"}]
+[
+    {
+        "Name": "PowerPlatformTip 16 – ‘PowerApps – Collections Cookbook’",
+        "Description": null,
+        "Link": "https://lehmann.ws/2023/01/03/powerplatformtip-16-powerapps-collections-cookbook/",
+        "Author": "Marcel Lehmann",
+        "Date": "2023-01-23T00:29:00Z",
+        "Typ": 864220000
+    },
+    {
+        "Name": "PowerPlatformTip 17 – ‘Format data by example’",
+        "Description": null,
+        "Link": "https://lehmann.ws/2023/01/05/powerplatformtip-17-format-data-by-example/",
+        "Author": "Marcel Lehmann",
+        "Date": "2023-01-23T00:29:00Z",
+        "Typ": 864220000
+    },
+    {
+        "Name": "PowerPlatformTip 18 – ‘Download & Save Files’",
+        "Description": null,
+        "Link": "https://lehmann.ws/2023/01/10/powerplatformtip-18-download-save-files/",
+        "Author": "Marcel Lehmann",
+        "Date": "2023-01-23T00:29:00Z",
+        "Typ": 864220000
+    },
+    {
+        "Name": "PowerPlatformTip 19 – ‘Resize files’",
+        "Description": null,
+        "Link": "https://lehmann.ws/2023/01/12/powerplatformtip-19-resize-files/",
+        "Author": "Marcel Lehmann",
+        "Date": "2023-01-23T00:29:00Z",
+        "Typ": 864220000
+    },
+    {
+        "Name": "PowerPlatformTip 20 – ‘Change Flow-Owner’",
+        "Description": null,
+        "Link": "https://lehmann.ws/2023/01/17/powerplatformtip-20-change-flow-owner/",
+        "Author": "Marcel Lehmann",
+        "Date": "2023-01-23T00:29:00Z",
+        "Typ": 864220000
+    },
+    {
+        "Name": "PowerPlatformTip 21 – ‘Use Triggeroutput’",
+        "Description": null,
+        "Link": "https://lehmann.ws/2023/01/19/powerplatformtip-21-use-triggeroutput/",
+        "Author": "Marcel Lehmann",
+        "Date": "2023-01-23T00:29:00Z",
+        "Typ": 864220000
+    },
+    {
+        "Name": "PowerPlatformTip 22 – ‘Change Fill & Color’",
+        "Description": null,
+        "Link": "https://lehmann.ws/2023/01/24/powerplatformtip-change-fill-color/",
+        "Author": "Marcel Lehmann",
+        "Date": "2023-01-24T07:19:00Z",
+        "Typ": 864220000
+    },
+    {
+        "Name": "PowerPlatformTip 23 – ‘Filter Blank’",
+        "Description": null,
+        "Link": "https://lehmann.ws/2023/01/26/powerplatformtip-23-filter-blank/",
+        "Author": "Marcel Lehmann",
+        "Date": "2023-01-26T07:09:00Z",
+        "Typ": 864220000
+    },
+    {
+        "Name": "PowerPlatformTip 24 – ‘Merge arrays or tables’",
+        "Description": null,
+        "Link": "https://lehmann.ws/2023/01/31/powerplatformtip-24-merge-arrays-or-tables/",
+        "Author": "Marcel Lehmann",
+        "Date": "2023-01-31T07:00:00Z",
+        "Typ": 864220000
+    },
+    {
+        "Name": "PowerPlatformTip 25 – ‘Weekly tips, insights and updates’",
+        "Description": null,
+        "Link": "https://lehmann.ws/2023/02/02/powerplatformtip-25-weekly-tips-insights-and-updates/",
+        "Author": "Marcel Lehmann",
+        "Date": "2023-02-02T07:08:00Z",
+        "Typ": 864220000
+    },
+    {
+        "Name": "PowerPlatformTip 26 – ‘Microsoft Cloud Skills Challenge’",
+        "Description": null,
+        "Link": "https://lehmann.ws/2023/02/07/powerplatformtip-26-microsoft-cloud-skills-challenge/",
+        "Author": "Marcel Lehmann",
+        "Date": "2023-02-07T07:37:00Z",
+        "Typ": 864220000
+    },
+    {
+        "Name": "PowerPlatformTip 27 – ‘Overwrite existing files ‘",
+        "Description": null,
+        "Link": "https://lehmann.ws/2023/02/09/powerplatformtip-overwrite-existing-files/",
+        "Author": "Marcel Lehmann",
+        "Date": "2023-02-09T07:18:00Z",
+        "Typ": 864220000
+    },
+    {
+        "Name": "PowerPlatformTip 28 – ‘ParseJSON Description’",
+        "Description": null,
+        "Link": "https://lehmann.ws/2023/02/14/powerplatformtip-28-fast-tips/",
+        "Author": "Marcel Lehmann",
+        "Date": "2023-02-14T07:05:00Z",
+        "Typ": 864220000
+    },
+    {
+        "Name": "PowerPlatformTip 29 – ‘Fast tips’",
+        "Description": null,
+        "Link": "https://lehmann.ws/2023/02/15/powerplatformtip-29-fast-tips/",
+        "Author": "Marcel Lehmann",
+        "Date": "2023-02-15T22:07:00Z",
+        "Typ": 864220000
+    },
+    {
+        "Name": "PowerPlatformTip 30 – ‘PowerApps – Code Review’",
+        "Description": null,
+        "Link": "https://lehmann.ws/2023/02/21/powerplatformtip-30-powerapps-code-review/",
+        "Author": "Marcel Lehmann",
+        "Date": "2023-02-21T06:55:00Z",
+        "Typ": 864220000
+    },
+    {
+        "Name": "PowerPlatformTip 32 – ‘Use GroupBy’",
+        "Description": null,
+        "Link": "https://lehmann.ws/2023/03/02/powerplatformtip-32-groupby/",
+        "Author": "Marcel Lehmann",
+        "Date": "2023-03-02T07:22:00Z",
+        "Typ": 864220000
+    },
+    {
+        "Name": "PowerPlatformTip 35 – ‘Concurrent Control’",
+        "Description": null,
+        "Link": "https://lehmann.ws/2023/03/14/powerplatformtip-concurrent-control/",
+        "Author": "Marcel Lehmann",
+        "Date": "2023-03-14T07:17:00Z",
+        "Typ": 864220000
+    },
+    {
+        "Name": "PowerPlatformTip 37 – ‘Table to JSON’",
+        "Description": null,
+        "Link": "https://lehmann.ws/2023/03/21/powerplatformtip-37-table-to-json/",
+        "Author": "Marcel Lehmann",
+        "Date": "2023-03-21T08:07:00Z",
+        "Typ": 864220000
+    },
+    {
+        "Name": "PowerPlatformTip 38 – ‘Data Refresh’",
+        "Description": null,
+        "Link": "https://lehmann.ws/2023/03/23/powerplatformtip-38-data-refresh/",
+        "Author": "Marcel Lehmann",
+        "Date": "2023-03-23T07:11:00Z",
+        "Typ": 864220000
+    },
+    {
+        "Name": "PowerPlatformTip 39 – ‘FetchXML’",
+        "Description": null,
+        "Link": "https://lehmann.ws/2023/03/23/powerplatformtip-39-fetchxml/",
+        "Author": "Marcel Lehmann",
+        "Date": "2023-03-23T08:11:00Z",
+        "Typ": 864220000
+    },
+    {
+        "Name": "PowerPlatformTip 39 – ‘FetchXML’",
+        "Description": null,
+        "Link": "https://lehmann.ws/2023/03/28/powerplatformtip-39-fetchxml/",
+        "Author": "Marcel Lehmann",
+        "Date": "2023-03-28T06:33:00Z",
+        "Typ": 864220000
+    },
+    {
+        "Name": "PowerPlatformTip 40 – ‘Delete Apps / Flows’",
+        "Description": null,
+        "Link": "https://lehmann.ws/2023/03/30/powerplatformtip-40-delete-apps-flows/",
+        "Author": "Marcel Lehmann",
+        "Date": "2023-03-30T06:10:00Z",
+        "Typ": 864220000
+    },
+    {
+        "Name": "PowerPlatformTip 41 – ‘Standard tables in DataVerse’",
+        "Description": null,
+        "Link": "https://lehmann.ws/2023/04/04/powerplatformtip-41-standard-tables-in-dataverse/",
+        "Author": "Marcel Lehmann",
+        "Date": "2023-04-04T06:25:00Z",
+        "Typ": 864220000
+    },
+    {
+        "Name": "PowerPlatformTip 42 – ‘Dataverse Views’",
+        "Description": null,
+        "Link": "https://lehmann.ws/2023/04/06/powerplatformtip-42-dataverse-views/",
+        "Author": "Marcel Lehmann",
+        "Date": "2023-04-06T06:33:00Z",
+        "Typ": 864220000
+    },
+    {
+        "Name": "PowerPlatformTip 43 – ‘With function’",
+        "Description": null,
+        "Link": "https://lehmann.ws/2023/04/11/powerplatformtip-43-with-function/",
+        "Author": "Marcel Lehmann",
+        "Date": "2023-04-11T06:24:00Z",
+        "Typ": 864220000
+    },
+    {
+        "Name": "PowerPlatformTip 44 – ‘With function’",
+        "Description": null,
+        "Link": "https://lehmann.ws/2023/04/13/powerplatformtip-44-with-function/",
+        "Author": "Marcel Lehmann",
+        "Date": "2023-04-13T06:01:00Z",
+        "Typ": 864220000
+    },
+    {
+        "Name": "PowerPlatformTip 45 – ‘Use Scopes’",
+        "Description": null,
+        "Link": "https://lehmann.ws/2023/04/18/powerplatformtip-use-scopes/",
+        "Author": "Marcel Lehmann",
+        "Date": "2023-04-18T06:16:00Z",
+        "Typ": 864220000
+    },
+    {
+        "Name": "PowerPlatformTip 46 – ‘PowerToys’",
+        "Description": null,
+        "Link": "https://lehmann.ws/2023/04/20/powerplatformtip-46-powertoys/",
+        "Author": "Marcel Lehmann",
+        "Date": "2023-04-20T06:19:00Z",
+        "Typ": 864220000
+    },
+    {
+        "Name": "PowerPlatformTip 47 – ‘Batch-Method within SharePoint’",
+        "Description": null,
+        "Link": "https://lehmann.ws/2023/04/25/powerplatformtip-47-batch-method-within-sharepoint/",
+        "Author": "Marcel Lehmann",
+        "Date": "2023-04-25T06:31:00Z",
+        "Typ": 864220000
+    },
+    {
+        "Name": "PowerPlatformTip 48 – ‘Sharing of Flows & Power Apps’",
+        "Description": null,
+        "Link": "https://lehmann.ws/2023/04/27/powerplatformtip-48-sharing-of-flows-power-apps/",
+        "Author": "Marcel Lehmann",
+        "Date": "2023-04-27T06:10:00Z",
+        "Typ": 864220000
+    },
+    {
+        "Name": "PowerPlatformTip 33 – ‘Coalesce’",
+        "Description": null,
+        "Link": "https://lehmann.ws/2023/03/07/powerplatformtip-33-coalesce/",
+        "Author": "Marcel Lehmann",
+        "Date": "2023-03-07T09:44:00Z",
+        "Typ": 864220000
+    },
+    {
+        "Name": "PowerPlatformTip 34 – ‘PowerApps V2’",
+        "Description": null,
+        "Link": "https://lehmann.ws/2023/03/09/powerplatformtip-34-powerapps-v2/",
+        "Author": "Marcel Lehmann",
+        "Date": "2023-03-09T07:16:00Z",
+        "Typ": 864220000
+    },
+    {
+        "Name": "23 Power Apps Filter Function Examples For SharePoint",
+        "Description": "The Power Apps Filter function checks a table for any records matching a set of logical criteria. Then it extracts the results into a new table. Use these examples to help you filter a SharePoint list. All of the filter functions on this page support delegation so the full results set will be returned.",
+        "Link": "https://www.matthewdevaney.com/power-apps-filter-functions-examples/",
+        "Author": "Matthew Devaney",
+        "Date": "2023-03-25T23:00:00Z",
+        "Typ": 864220001
+    },
+    {
+        "Name": "8 Power Platform DLP Policy Best Practices",
+        "Description": "Power Platform DLP Policies determine which data connectors can be used by apps & flows in an environment and which connectors are blocked. They are essential to put in place for every environment. DLP Policies prevent makers from accidentally exposing data to 3rd party services that should not have it. In this article I will share 8 Power Platform DLP Policy best practices and help you build a strategy to prevent data-leakage.",
+        "Link": "https://www.matthewdevaney.com/8-power-platform-dlp-policy-best-practices/",
+        "Author": "Matthew Devaney",
+        "Date": "2023-03-04T23:00:00Z",
+        "Typ": 864220001
+    },
+    {
+        "Name": "Add Attendee to Event via Flow",
+        "Description": null,
+        "Link": null,
+        "Author": "Marcel Lehmann",
+        "Date": null,
+        "Typ": 864220003
+    },
+    {
+        "Name": "New PowerApp Owner via PowerAutomate",
+        "Description": null,
+        "Link": null,
+        "Author": "Marcel Lehmann",
+        "Date": null,
+        "Typ": 864220003
+    }
+]
