@@ -1,9 +1,14 @@
 javascript:(function() {
-    var currentUrl = window.location.href;
-    if (currentUrl.endsWith('?v3=true')) {
-        var newUrl = currentUrl.replace('?v3=true', '?v3=false');
+    var currentUrl = new URL(window.location.href);
+    var pathComponents = currentUrl.pathname.split('/');
+    var envIndex = pathComponents.indexOf('environments');
+    var environmentId = pathComponents[envIndex + 1];
+    
+    if (currentUrl.search.endsWith('?v3=true')) {
+        var newUrl = currentUrl.href.replace('?v3=true', '?v3=false');
         window.location.href = newUrl;
     } else {
-        window.location.href = 'https://make.powerautomate.com/environments/Default-6f5c8419-f724-4deb-b347-fd9b9691ca5f/flows/new';
+        var newFlowUrl = 'https://make.powerautomate.com/environments/' + environmentId + '/flows/new';
+        window.location.href = newFlowUrl;
     }
 })();
