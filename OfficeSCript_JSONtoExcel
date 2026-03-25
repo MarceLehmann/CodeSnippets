@@ -1,0 +1,93 @@
+type Primitive = string | number | boolean | null;
+
+interface JsonNode {
+  [key: string]: Primitive | JsonNode;
+}
+
+// Input: an array of JSON objects
+type ReportArray = JsonNode[];
+
+function main(workbook: ExcelScript.Workbook, jsonBody: string): void {
+  // 1. Parse JSON string coming from Power Automate or another source
+  let items: ReportArray;
+  try {
+    items = JSON.parse(jsonBody) as ReportArray;
+  } catch (e) {
+    console.log("Error parsing JSON string.");
+    return;
+  }
+
+  // Stop if there is no data
+  if (!items || items.length === 0) return;
+
+  // 2. Use the active worksheet
+  let sheet: ExcelScript.Worksheet = workbook.getActiveWorksheet();
+
+  // Remove existing tables and clear used range to avoid leftovers
+  const tables: ExcelScript.Table[] = sheet.getTables();
+  tables.forEach((table: ExcelScript.Table) => table.delete());
+  sheet.getUsedRange()?.clear();
+
+  // 3. Flatten function: turn nested objects into "Scope.Value" style keys
+  function flattenObject(ob: JsonNode, prefix: string = ""): Record<string, Primitive> {
+    let result: Record<string, Primitive> = {};
+
+    for (const key of Object.keys(ob)) {
+      const value: Primitive | JsonNode = ob[key];
+
+      // If the value is an object, recursively flatten it and prefix the keys
+      if (typeof value === "object" && value !== null) {
+        const flatObject: Record<string, Primitive> = flattenObject(
+          value as JsonNode,
+          prefix + key + "."
+        );
+        for (const flatKey of Object.keys(flatObject)) {
+          result[flatKey] = flatObject[flatKey];
+        }
+      } else {
+        // Primitive value: write directly to the result with full key
+        result[prefix + key] = value as Primitive;
+      }
+    }
+    return result;
+  }
+
+  // 4. Flatten all items and collect all column names dynamically
+  const flatItems: Record<string, Primitive>[] = items.map((item: JsonNode) =>
+    flattenObject(item)
+  );
+
+  const headerSet: Set<string> = new Set<string>();
+  flatItems.forEach((item: Record<string, Primitive>) => {
+    Object.keys(item).forEach((key: string) => headerSet.add(key));
+  });
+
+  const headers: string[] = [];
+  headerSet.forEach((h: string) => headers.push(h));
+
+  // 5. Build row matrix in the same order as headers
+  const rows: string[][] = flatItems.map((item: Record<string, Primitive>) => {
+    return headers.map((header: string) => {
+      const val: Primitive = item[header];
+      return val !== null && val !== undefined ? String(val) : "";
+    });
+  });
+
+  // 6. Write headers and data to the active sheet
+  sheet.getRangeByIndexes(0, 0, 1, headers.length).setValues([headers]);
+  sheet.getRangeByIndexes(1, 0, rows.length, headers.length).setValues(rows);
+
+  // Create a table on the full range
+  const fullRange: ExcelScript.Range = sheet.getRangeByIndexes(
+    0,
+    0,
+    rows.length + 1,
+    headers.length
+  );
+  const newTable: ExcelScript.Table = sheet.addTable(fullRange, true);
+
+  // Give the table a unique name based on timestamp and autofit columns
+  const timeStamp: number = new Date().getTime();
+  newTable.setName(`ImportedTable_${timeStamp}`);
+  newTable.getRange().getFormat().autofitColumns();
+}
